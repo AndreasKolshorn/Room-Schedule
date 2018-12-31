@@ -7,11 +7,3 @@ With a custom database I designed and built, this tool allows the university reg
 A custom data feed from CAMS gathers courses associated with the student's degree requirements and lists them in a treeview the scheduler can select from during scheduling. The list also shows with changes of color of text, the completion status of courses along with course specific tooltips. 
 
 Ultimately this database provides data to a seperate app on the student web portal where they can review their clinic schedule. Additional data consumers include numerous SSRS reports.
-
-
-
-
-
-As part of the schedule process are linked to room slots during the schedule process. Later 
-
-This and credential status of supervisor at the time shift was attended is preserved. 
